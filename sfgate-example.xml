@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:flatplan="https://www.flatplan.io/feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  >
+  <channel>
+
+    <title>SFGATE</title>
+    <pubDate>Fri, 03 May 2020 09:10:35 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2020 11:34:07 +0000</lastBuildDate>
+    <link>"https://www.sfgate.com/"</link>
+    <language>en-gb</language>
+
+    <item>
+      <!-- must be unique to each article --> 
+      <guid isPermaLink="false">https://www.sfgate.com/local/article/dark-watchers-santa-lucia-range-stories-steinbeck-16012812.php?IPID=SFGate-HP-CP-Spotlight</guid>
+
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[For centuries, Big Sur residents have seen 'Dark Watchers' in the mountains ]]></title>
+      <link>https://www.sfgate.com/local/article/dark-watchers-santa-lucia-range-stories-steinbeck-16012812.php?IPID=SFGate-HP-CP-Spotlight</link>
+
+<!-- articleHeader--timestamp-pubdate -->
+      <pubDate>10 Mar 2021 11:34:07 +0000</pubDate>
+
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+
+<!-- articleHeader--image and caption inside span class credits -->
+      <media:thumbnail url="https://s.hdnux.com/photos/01/17/02/77/20721629/3/1200x0.jpg" caption="Don Smith/Getty Images"/>
+
+<!-- Meta description -->
+      <description>John Steinbeck’s mother brought the watchers gifts. She believed they left her flowers...</description>
+
+<!-- articleHeader--byline -->
+      <dc:creator>Katie Dowd</dc:creator>
+
+      <!-- include CDATA wrapper if content will contain "&"-->
+
+          <!-- articleHeader--breadcrumbs-item -->
+      <category><![CDATA[Local ]]></category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+
+        <!-- article--content -->
+      <content:encoded><![CDATA[
+
+
+      <article class="article--content" style="position: relative;"><section id="articleTop" class="article--content-zone top"></section>
+                  <p>If you want to see a Dark Watcher, you should wait until the late afternoon.</p>
+
+
+                  <p>As the sun begins its descent behind the waves, look to the sharp ridges of the Santa Lucia Range, the mountains that rise up from the shores of Monterey and down the Central California coast. If you are lucky, you might see figures silhouetted against them. Some say the watchers are 10 feet tall, made taller or wider by hats or capes. They may turn to look at you. But they always move away quickly and disappear.</p><div class="adModule adModule--outer "><div id="TMP300_3" class="adModule--inner loaded" data-slug="Advertisement" data-disclaimer="Article continues below this ad" data-small="250" data-google-query-id="CNax1Jq1pu8CFcHKUQodhYoPaw"><div id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_7__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_7" title="3rd party ad content" name="google_ads_iframe_/36117602/hnp-sfgate.com/Local_7" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" allow="conversion-measurement ‘src’" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="1a" data-load-complete="true"></iframe></div></div></div>
+
+          <div id="paywall" class="content-wrapper">
+                  <p>For centuries, tales of the Dark Watchers have swirled in the misty Santa Lucia Mountains. Most stories begin with the local native tribes, which allegedly spoke of the shadowy figures in their oral traditions. When the Spanish arrived in the 1700s, they began calling the apparitions los Vigilantes Oscuros (literally “the dark watchers”). And as Anglo American settlers began staking claims in the region, they too felt the sensation of being watched from the hills.</p>
+
+
+          <!-- Missed: ad -->
+
+          <!-- Missed: ad -->
+
+                  <p>Accounts vary, although everyone agrees the beings are more shadowy than human and more observant than aggressive. They took their most solid form in the first half of the 20th century, when two legendary writers memorialized them.</p>
+
+
+          <!-- Missed: ad -->
+
+                  <p>In 1937, Robinson Jeffers, poet of life along the Central Coast, drew inspiration from the watchers for his collection “Such Counsels You Gave To Me and Other Poems.”</p>
+
+
+          <!-- heart/article/content/photo.tpl -->
+      <figure class=" extendFromGrid fXS fSM fMD fLG fXL">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <picture class="image threeTwo fade-in" data-width="2048" data-height="1365"><source media="(min-width: 1292px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/2400x0.jpg 2x"><source media="(min-width: 1230px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/2300x0.jpg 2x"><source media="(min-width: 1168px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/2200x0.jpg 2x"><source media="(min-width: 1106px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/2100x0.jpg 2x"><source media="(min-width: 1044px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/2000x0.jpg 2x"><source media="(min-width: 982px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1900x0.jpg 2x"><source media="(min-width: 920px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1800x0.jpg 2x"><source media="(min-width: 858px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1700x0.jpg 2x"><source media="(min-width: 796px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1600x0.jpg 2x"><source media="(min-width: 734px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1500x0.jpg 2x"><source media="(min-width: 672px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1400x0.jpg 2x"><source media="(min-width: 610px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1300x0.jpg 2x"><source media="(min-width: 548px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1200x0.jpg 2x"><source media="(min-width: 486px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1100x0.jpg 2x"><source media="(min-width: 424px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/1000x0.jpg 2x"><source media="(min-width: 362px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/900x0.jpg 2x"><source media="(min-width: 300px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721625/3/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721625/3/800x0.jpg 2x"><img class="landscape" alt="The fog, mist and low clouds of the Santa Lucia Range make for an eerie - and possibly scientifically optimal - environment for tall shadows." src="https://s.hdnux.com/photos/01/17/02/77/20721625/3/1200x0.jpg"></picture><figcaption><span class="caption"><p>The fog, mist and low clouds of the Santa Lucia Range make for an eerie — and possibly scientifically optimal — environment for tall shadows.</p></span><span class="credits">Dan Porges/Getty Images</span></figcaption></figure>
+      <!-- e heart/article/content/photo.tpl -->
+                  <p>“He thought it might be one of the watchers, who are often seen in this length of coast-range, forms that look human to human eyes, but certainly are not human. They come from behind ridges to watch,” Jeffers wrote. “... He was not surprised when the figure turning toward him in the quiet twilight showed his own face. Then it melted and merged into the shadows beyond it.”</p><div class="adModule adModule--outer "><div id="CONCERT1" class="adModule--inner loaded" data-slug="Advertisement" data-disclaimer="Article continues below this ad" data-small="300" data-google-query-id="CImN_KK1pu8CFfsMBgAd56gPhA"><div id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_2__container__" style="border: 0pt none; display: inline-block; width: 100%; height: auto;"><iframe frameborder="0" src="https://9c31b5aaba6a8617e576cbc48ec2f2a5.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_2" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="0" height="0" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="conversion-measurement ‘src’" data-google-container-id="1d" style="border: 0px; vertical-align: bottom; min-width: 100%;" data-load-complete="true"></iframe></div></div></div>
+
+
+          <!-- Missed: ad -->
+
+                  <p>The next year, John Steinbeck, who grew up in Salinas, spoke of them in his short story “Flight.” In the tale, a teenage Mexican American boy kills a man and is forced to flee into the Santa Lucias. As his mother bids him farewell, she urges him to say his prayers, take care of his horse and “when thou comest to the high mountains, if thou seest any of the dark watching men, go not near to them nor try to speak to them.”</p>
+
+
+          <!-- hearst/article/content/zone.tpl -->
+                  <!-- hearst/article/content/embed.tpl -->
+              <section class="article--content-embed  ">
+                  <img height="0" width="0" src="https://cdn-channels-pixel.ex.co/events/0012000001fxZm9AAE?integrationType=DEFAULT&amp;template=design%2Farticle%2Fdynamic_two_column.tpl"><div id="30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d" class="hst-exco-player"></div><script>
+        (function (d, s) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          js = d.createElement(s);
+          js.src = "https://player.ex.co/player/30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script'));
+      </script><script>
+        (function (d, id) {
+          var t = d.getElementById(id), img = d.createElement('img');
+          img.height = 0;
+          img.width = 0;
+          img.src = 'https://cdn-channels-pixel.ex.co/events/0012000001fxZm9AAE?integrationType=DEFAULT&template=' + encodeURIComponent(window.HDN.dataLayer.content.designTemplate);
+          t.parentNode.insertBefore(img, t);
+          t.parentNode
+        }(document, '30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d'));
+      </script><!-- amp-exco-0cac96ac-a929-4594-a72a-1d12cb6cc155 -->
+
+          </section>
+      <!-- e hearst/article/content/embed.tpl -->    <!-- e hearst/article/content/zone.tpl -->
+                  <p>---</p>
+
+
+                  <p>If you want to meet a Dark Watcher, you should bring a gift.</p>
+
+
+                  <p>Steinbeck’s mother Olive Hamilton brought fruit or sometimes flowers. Steinbeck’s son Thomas said his grandmother, a school teacher, was no fabulist, but she believed firmly in the Dark Watchers. She told her children and grandchildren she left fruit or nuts in Mule Deer Canyon on her way to school in Big Sur. On the way back, there would be flowers in their place.</p><div class="adModule adModule--outer "><div id="CONCERT2" class="adModule--inner loaded" data-slug="Advertisement" data-disclaimer="Article continues below this ad" data-small="300" data-google-query-id="CIOC_-ixpu8CFZXUUQodSZAF7A"><div id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_3__container__" style="border: 0pt none; display: inline-block; width: 100%; height: auto;"><iframe frameborder="0" src="https://9c31b5aaba6a8617e576cbc48ec2f2a5.safeframe.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/36117602/hnp-sfgate.com/Local_3" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="0" height="0" data-is-safeframe="true" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="conversion-measurement ‘src’" data-google-container-id="4" style="border: 0px; vertical-align: bottom; min-width: 100%;" data-load-complete="true"></iframe></div></div></div>
+
+
+          <!-- Missed: ad -->
+
+                  <p>The stories stuck with Steinbeck, clearly, and were echoed by Big Sur personalities like Doc Ricketts and <a href="https://www.latimes.com/local/obituaries/la-me-billy-post2-2009aug02-story.html" target="_blank" rel="noopener">Billy Post</a>.</p>
+
+
+                  <p>"The old timers of Big Sur swear by it," painter Benjamin Brode, who <a href="http://www.darkwatchersbook.com/" target="_blank" rel="noopener">co-authored a book</a> on the watchers with Thomas Steinbeck, <a href="https://www.montereycountyweekly.com/people/831/big-sur-is-home-to-shadowy-figures-or-at-least-people-who-see-them/article_ab3725be-b9be-11e7-aa73-43df29d5070d.amp.html" target="_blank" rel="noopener">told the Monterey County Weekly</a> in 2017.</p>
+
+          <aside class="article--content-inline"><aside class="zone"><!-- src/business/widgets/hearst/collection/widget.tpl -->
+
+          <div class="hide-rss-link hdnce-e hdnce-collection-108907-dynamic_thumbnail_list"><!-- hearst/collections/dynamic_thumbnail_list.tpl -->
+      <!-- collection.dynamic_thumbnail_list.108907 -->
+          <!-- design/collection/dynamic_thumbnail_list/single_zone.tpl  -->
+          <div class="collectionHeader"><!-- widgets/hearst/moduleHeader/widget.tpl -->
+                                                  Top Picks In Shopping
+                              <!-- e widgets/hearst/moduleHeader/widget.tpl --></div>
+          <!-- hearst/collections/dynamic_thumbnail_list_body.tpl -->
+      <section class="thumbnail-list">
+      <div class="thumbnail-list-wrapper">
+      <ul>
+
+
+                                                                                                                <li class="thumbnail-list--item" data-tb-region-item="">
+
+                                                                                                                              <div class="thumbnail-list--item-header badge shopping">
+                                                          <span class="thumbnail-list--item-header-kicker kicker hideKicker">
+                                                                          <a href="/shopping/?IPID=SFGate-Article-Right-Rail">Shopping</a>
+                                                                  </span>
+                                                      <a class="thumbnail-list--item-header-headline hdn-analytics " href="/shopping/article/Want-to-make-your-own-movies-You-ll-want-to-15997848.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit|article-15997848|dynamic_thumbnail_list-108907|1">Want to make your own movies? Check out Adobe After Effects</a>
+                              <!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->                    </div>
+                                                  <div class="thumbnail-list--item-photo">
+                                  <a class="hdn-analytics " href="/shopping/article/Want-to-make-your-own-movies-You-ll-want-to-15997848.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit-from-img|article-15997848|dynamic_thumbnail_list-108907|1">
+                                      <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                                                                  <source data-srcset="https://s.hdnux.com/photos/01/16/74/73/20696800/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/73/20696800/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                              <source data-srcset="https://s.hdnux.com/photos/01/16/74/73/20696800/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/73/20696800/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
+                                              <img data-src="https://s.hdnux.com/photos/01/16/74/73/20696800/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                                                          </picture>
+                                  </a>
+                              </div>
+                                          </li>
+
+
+                                                                                                                <li class="thumbnail-list--item" data-tb-region-item="">
+
+                                                                                                                              <div class="thumbnail-list--item-header badge shopping">
+                                                          <span class="thumbnail-list--item-header-kicker kicker hideKicker">
+                                                                          <a href="/shopping/?IPID=SFGate-Article-Right-Rail">Shopping</a>
+                                                                  </span>
+                                                      <a class="thumbnail-list--item-header-headline hdn-analytics " href="/shopping/article/infrared-thermometer-high-rated-sale-15969936.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit|article-15969936|dynamic_thumbnail_list-108907|2">This $8 infrared thermometer has over 5,000 5-star ratings</a>
+                              <!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->                    </div>
+                                                  <div class="thumbnail-list--item-photo">
+                                  <a class="hdn-analytics " href="/shopping/article/infrared-thermometer-high-rated-sale-15969936.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit-from-img|article-15969936|dynamic_thumbnail_list-108907|2">
+                                      <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                                                                  <source data-srcset="https://s.hdnux.com/photos/01/16/57/26/20641201/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/57/26/20641201/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                              <source data-srcset="https://s.hdnux.com/photos/01/16/57/26/20641201/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/57/26/20641201/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
+                                              <img data-src="https://s.hdnux.com/photos/01/16/57/26/20641201/3/ratio1x1_95.jpg" alt="EasyEast thermometer for $7.93 at Amazon">
+                                                                          </picture>
+                                  </a>
+                              </div>
+                                          </li>
+
+
+                                                                                                                <li class="thumbnail-list--item" data-tb-region-item="">
+
+                                                                                                                              <div class="thumbnail-list--item-header badge shopping">
+                                                          <span class="thumbnail-list--item-header-kicker kicker hideKicker">
+                                                                          <a href="/shopping/?IPID=SFGate-Article-Right-Rail">Shopping</a>
+                                                                  </span>
+                                                      <a class="thumbnail-list--item-header-headline hdn-analytics " href="/shopping/article/firstleaf-review-wine-subscription-15975305.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit|article-15975305|dynamic_thumbnail_list-108907|3">We tried Firstleaf wine club and it was lots of fun</a>
+                              <!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->                    </div>
+                                                  <div class="thumbnail-list--item-photo">
+                                  <a class="hdn-analytics " href="/shopping/article/firstleaf-review-wine-subscription-15975305.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit-from-img|article-15975305|dynamic_thumbnail_list-108907|3">
+                                      <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                                                                  <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                              <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
+                                              <img data-src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
+                                                                          </picture>
+                                  </a>
+                              </div>
+                                          </li>
+
+
+                                                                                                                <li class="thumbnail-list--item" data-tb-region-item="">
+
+                                                                                                                              <div class="thumbnail-list--item-header badge shopping">
+                                                          <span class="thumbnail-list--item-header-kicker kicker hideKicker">
+                                                                          <a href="/shopping/?IPID=SFGate-Article-Right-Rail">Shopping</a>
+                                                                  </span>
+                                                      <a class="thumbnail-list--item-header-headline hdn-analytics " href="/shopping/article/how-many-steps-to-walk-in-a-day-15963105.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit|article-15963105|dynamic_thumbnail_list-108907|4">How many steps do you actually need to walk in a day?</a>
+                              <!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->                    </div>
+                                                  <div class="thumbnail-list--item-photo">
+                                  <a class="hdn-analytics " href="/shopping/article/how-many-steps-to-walk-in-a-day-15963105.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit-from-img|article-15963105|dynamic_thumbnail_list-108907|4">
+                                      <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                                                                  <source data-srcset="https://s.hdnux.com/photos/01/16/55/11/20632158/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/55/11/20632158/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                              <source data-srcset="https://s.hdnux.com/photos/01/16/55/11/20632158/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/55/11/20632158/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
+                                              <img data-src="https://s.hdnux.com/photos/01/16/55/11/20632158/3/ratio1x1_95.jpg" alt="How many steps do you need to walk in a day?">
+                                                                          </picture>
+                                  </a>
+                              </div>
+                                          </li>
+
+
+                                                                                                                <li class="thumbnail-list--item" data-tb-region-item="">
+
+                                                                                                                              <div class="thumbnail-list--item-header badge shopping">
+                                                          <span class="thumbnail-list--item-header-kicker kicker hideKicker">
+                                                                          <a href="/shopping/?IPID=SFGate-Article-Right-Rail">Shopping</a>
+                                                                  </span>
+                                                      <a class="thumbnail-list--item-header-headline hdn-analytics " href="/shopping/article/CDC-study-double-face-mask-effective-15942913.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit|article-15942913|dynamic_thumbnail_list-108907|5">Yet another CDC study touts the effectiveness of double...</a>
+                              <!-- subitem_timestamp.tpl --><!-- e subitem_timestamp.tpl -->                    </div>
+                                                  <div class="thumbnail-list--item-photo">
+                                  <a class="hdn-analytics " href="/shopping/article/CDC-study-double-face-mask-effective-15942913.php?IPID=SFGate-Article-Right-Rail" data-hdn-analytics="visit-from-img|article-15942913|dynamic_thumbnail_list-108907|5">
+                                      <picture class="deferred oneOne" data-progressive="true" data-component="picture">
+                                                                                  <source data-srcset="https://s.hdnux.com/photos/01/16/44/76/20598701/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/44/76/20598701/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
+                                              <source data-srcset="https://s.hdnux.com/photos/01/16/44/76/20598701/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/44/76/20598701/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
+                                              <img data-src="https://s.hdnux.com/photos/01/16/44/76/20598701/3/ratio1x1_95.jpg" alt="Pack of 50 disposable face masks for $13.99 at Amazon.">
+                                                                          </picture>
+                                  </a>
+                              </div>
+                                          </li>
+                              </ul>
+      </div>
+      </section>
+      <!-- e hearst/collections/dynamic_thumbnail_list_body.tpl --><!-- e design/collection/dynamic_thumbnail_list/single_zone.tpl  --><!-- e hearst/collections/dynamic_thumbnail_list.tpl -->
+      </div><!-- e src/business/widgets/hearst/collection/widget.tpl --></aside></aside>
+                  <p>If you are a believer, the centuries of sightings are probably enough for you. But if you are skeptic, you no doubt need to know what is actually causing these visual anomalies.</p>
+
+
+          <!-- heart/article/content/photo.tpl -->
+      <figure class=" extendFromGrid fXS fSM fMD fLG fXL">
+
+
+      <picture class="image threeTwo fade-in" data-width="2048" data-height="1365"><source media="(min-width: 1292px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/2400x0.jpg 2x"><source media="(min-width: 1230px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/2300x0.jpg 2x"><source media="(min-width: 1168px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/2200x0.jpg 2x"><source media="(min-width: 1106px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/2100x0.jpg 2x"><source media="(min-width: 1044px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/2000x0.jpg 2x"><source media="(min-width: 982px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1900x0.jpg 2x"><source media="(min-width: 920px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1800x0.jpg 2x"><source media="(min-width: 858px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1700x0.jpg 2x"><source media="(min-width: 796px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1600x0.jpg 2x"><source media="(min-width: 734px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1500x0.jpg 2x"><source media="(min-width: 672px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1400x0.jpg 2x"><source media="(min-width: 610px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1300x0.jpg 2x"><source media="(min-width: 548px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1200x0.jpg 2x"><source media="(min-width: 486px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1100x0.jpg 2x"><source media="(min-width: 424px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/1000x0.jpg 2x"><source media="(min-width: 362px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/900x0.jpg 2x"><source media="(min-width: 300px)" srcset="https://s.hdnux.com/photos/01/17/02/77/20721626/3/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/02/77/20721626/3/800x0.jpg 2x"><img class="landscape" alt="Sunset in the Santa Lucia Mountains, prime time for seeing a Dark Watcher. Some do report seeing the shadows at dawn, however." src="https://s.hdnux.com/photos/01/17/02/77/20721626/3/1200x0.jpg"></picture><figcaption><span class="caption"><p>Sunset in the Santa Lucia Mountains, prime time for seeing a Dark Watcher. Some do report seeing the shadows at dawn, however.</p></span><span class="credits">Ted Fletcher/Getty Images/iStockphoto</span></figcaption></figure>
+      <!-- e heart/article/content/photo.tpl -->
+                  <p>There are a few theories. One is that ordinary shadows, cast by swaying trees and obscured by fog or mist, are being twisted into humanoid shapes by our brains. This phenomenon is known as pareidolia; it’s how our pattern-seeking brains make sense of the world. Rorschach tests are reflections of pareidolia in action. So are images where people see “faces” in lunar landscapes.</p>
+
+
+                  <p>The other likely candidate is something called the Brocken spectre.</p>
+
+
+                  <p>Like in Big Sur, German locals near the Harz Mountains have, for centuries, reported seeing shadowy figures on Brocken peak. It, too, became a muse for writers like Lewis Carroll and Samuel Taylor Coleridge, with Brocken becoming a byword for high strangeness.</p>
+
+
+                  <p>In reality, the Brocken spectre is the result of a funny quirk of science. It happens when shadows — like those of a hiker — are cast on particularly misty mountain peaks. If the sun is behind the observer, the mist plays with the shadow, making it look <a href="https://earthsky.org/earth/what-is-the-brocken-spectre" target="_blank" rel="noopener">huge and menacing</a>. The shadow can even dart away as the mist suddenly shifts or breaks apart in the breeze.</p>
+
+
+                  <p>Of course, Steinbeck’s mother would remind you that mist shadows can’t bring you a flower. But for that, you’ll have to seek your own answers in the sunset-dappled mountains.</p>
+
+
+          <!-- templates/design/card/default.tpl -->
+      <div class="story-card manual">
+        <!-- card/cardAsset.tpl -->
+          <div class="story-card-body">
+                                        <div class="story-card-title">
+                More San Francisco History
+              </div>
+                      <hr>
+                            <div class="story-card-content">
+            <p>—<a href="https://www.sfgate.com/news/editorspicks/article/drakes-plate-marin-francis-drake-history-15976470.php"> This 'treasure' rewrote California history. It was all an elaborate hoax.</a></p>
+      <p>— <a href="https://www.sfgate.com/local/editorspicks/article/embarcadero-freeway-san-francisco-photos-history-15990662.php">'A monstrous mistake': Remembering the ugliest thing San Francisco ever built</a></p>
+      <p>— <a href="https://www.sfgate.com/sfhistory/article/wakamatsu-farm-japanese-immigrants-california-15896619.php" target="_blank" rel="noopener">The only samurai colony ever attempted outside of Japan was in California</a></p>
+      <p>— <a href="https://www.sfgate.com/local/article/East-Bay-ghost-signs-oakland-alameda-15998408.php">Historic 'ghost signs' are being unearthed in the East Bay</a></p>
+          </div>
+            </div>
+      <!-- e card/cardAsset.tpl --></div><!--/.card-->
+      <!-- e templates/design/card/default.tpl --><section id="articleBottom" class="article--content-zone bottom"></section></div><div class="sentinel" data-type="articleBodyScrollProgress" data-index="0" style="top: 0%;"></div><div class="sentinel" data-type="articleBodyScrollProgress" data-index="1" style="top: 25%;"></div><div class="sentinel" data-type="articleBodyScrollProgress" data-index="2" style="top: 50%;"></div><div class="sentinel" data-type="articleBodyScrollProgress" data-index="3" style="top: 75%;"></div><div class="sentinel" data-type="articleBodyScrollProgress" data-index="4" style="top: 100%;"></div></article>
+
+
+      ]]></content:encoded>
+
+
+      </item>
+      <item>
+        ...
+      </item>
+    </channel>
+  </rss>
